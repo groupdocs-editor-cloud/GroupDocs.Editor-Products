@@ -6,8 +6,8 @@ draft: false
 
 product: "Editor"
 product_tag: "editor"
-platform: "NodeJS"
-platform_tag: "nodejs"
+platform: "Node.js"
+platform_tag: "node"
 
 ############################# Head ############################
 head_title: "Node.js Document Viewer Cloud SDK - Edit Word Excel HTML PPTX"
@@ -27,7 +27,7 @@ submenu:
         img_alt: "GroupDocs.Editor Cloud SDK for Node.js"
         image: "/sdk/272x272/groupdocs_editor-for-node.webp"
         product: "GroupDocs.Editor"
-        platform: "NodeJS"
+        platform: "Node.js"
 
     middle:
         button:
@@ -65,7 +65,7 @@ overview:
       ## TAB ONE ##
       tab_one:
         description: |
-          GroupDocs.Editor Cloud SDK for Node.js has the following requirements.
+          An overview of the main features supported by GroupDocs.Editor.
 
         left:
           enable: true
@@ -245,7 +245,7 @@ solutions:
         - img_alt: "GroupDocs.Editor for cURL"
           image: "/sdk/272x272/groupdocs_editor-for-curl.webp"
           product: "GroupDocs.Editor"
-          platform: "cURL for Cloud"
+          platform: "cURL"
           link: "/editor/curl/"
           # solution loop
         - img_alt: "GroupDocs.Editor for .NET"

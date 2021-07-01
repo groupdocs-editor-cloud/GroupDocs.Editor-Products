@@ -63,7 +63,7 @@ overview:
       ## TAB ONE ##
       tab_one:
         description: |
-          An overview of the main features supported by GroupDocs.Editor Cloud for cURL.
+          An overview of the main features supported by GroupDocs.Editor.
 
         left:
           enable: true

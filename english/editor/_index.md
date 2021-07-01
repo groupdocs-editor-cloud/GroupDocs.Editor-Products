@@ -27,7 +27,7 @@ apis:
           img_alt: "GroupDocs.Editor Cloud for cURL"
           image: "/sdk/272x272/groupdocs_editor-for-curl.webp"
           product: "GroupDocs.Editor"
-          platform: "Cloud for cURL"
+          platform: "cURL"
           content: "Work with cURL RESTful document editor API to modify document contents of Word, Excel, Presentations, HTML and Text documents in your applications."
 
         # api_product loop

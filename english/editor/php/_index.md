@@ -65,7 +65,7 @@ overview:
       ## TAB ONE ##
       tab_one:
         description: |
-          SDK requires PHP 5.5 or later. It can run on any platform where this requirement can be met.
+          An overview of the main features supported by GroupDocs.Editor.
 
         left:
           enable: true
@@ -254,7 +254,7 @@ solutions:
         - img_alt: "GroupDocs.Editor for cURL"
           image: "/sdk/272x272/groupdocs_editor-for-curl.webp"
           product: "GroupDocs.Editor"
-          platform: "cURL for Cloud"
+          platform: "cURL"
           link: "/editor/curl/"
           # solution loop
         - img_alt: "GroupDocs.Editor for .NET"

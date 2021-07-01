@@ -27,7 +27,7 @@ submenu:
         img_alt: "GroupDocs.Editor Cloud SDK for Java"
         image: "/sdk/272x272/groupdocs_editor-for-java.webp"
         product: "GroupDocs.Editor"
-        platform: "JAVA"
+        platform: "Java"
 
     middle:
         button:
@@ -65,7 +65,7 @@ overview:
       ## TAB ONE ##
       tab_one:
         description: |
-          GroupDocs.Editor Cloud SDK for Java requires Java Runtime Environment and can run on any platform where these requirements can be met.
+          An overview of the main features supported by GroupDocs.Editor.
 
         left:
           enable: true
@@ -249,7 +249,7 @@ solutions:
         - img_alt: "GroupDocs.Editor for cURL"
           image: "/sdk/272x272/groupdocs_editor-for-curl.webp"
           product: "GroupDocs.Editor"
-          platform: "cURL for Cloud"
+          platform: "cURL"
           link: "/editor/curl/"
           # solution loop
         - img_alt: "GroupDocs.Editor for .NET"
