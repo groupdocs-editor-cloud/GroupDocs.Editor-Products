@@ -10,7 +10,7 @@ head_description: "Powerful, flexible and cross-platform document Editor SDKs, C
 
 ############################# Header ############################
 title: "Solution for Editing Documents"
-description: "Edit popular document formats (Microsoft Office, OpenOffice, HTML, XML and text) in any platform using API based document editor solution."
+description: "Edit Microsoft Office, OpenOffice, HTML, XML and text files in any platform using API based document editor solution."
 
 ############################# APIs ###############################
 apis:
@@ -82,20 +82,20 @@ apis:
           content: "Web-based free online app to edit popular file formats from Office & OpenOffice."
 
         # api_product loop
-        - link: "https://products.groupdocs.app/editor/doc-to-xls"
+        - link: "https://products.groupdocs.app/editor/docx"
           img_alt: "GroupDocs.Editor DOCX"
           image: "/logo/app/groupdocs_words-app.png"
           product: "GroupDocs.Editor"
-          platform: "DOC to XLS"
-          content: "Free editor app to view & edit Microsoft Word documents online."
+          platform: "DOCX"
+          content: "Free editor app to view & edit Microsoft Word documents."
 
         # api_product loop
-        - link: "https://products.groupdocs.app/editor/pdf-to-docx"
-          img_alt: "GroupDocs.Editor XLSM"
-          image: "/logo/app/groupdocs_cells-app.png"
+        - link: "https://products.groupdocs.app/editor/pdf"
+          img_alt: "GroupDocs.Editor PDF"
+          image: "/logo/app/groupdocs_pdf-app.png"
           product: "GroupDocs.Editor"
-          platform: "PDF to DOCX"
-          content: "Use any device, any browser to view or edit Microsoft Excel spreadsheets."
+          platform: "PDF"
+          content: "Edit PDF documents online from any device, with any modern browser like Chrome or Firefox."
 
 ############################# Testimonials ###############################
 testimonials:
