@@ -11,11 +11,11 @@ platform_tag: "java"
 
 ############################# Head ############################
 head_title: "Java Document Editor Cloud SDK – Edit Word Excel PowerPoint HTML"
-head_description: "Work with Java document editor cloud SDK & REST APIs to edit Word, Excel spreadsheets, PPTX, HTML, XML file formats.‎"
+head_description: "Work with Java document editor cloud SDK & REST APIs to edit Word, Excel spreadsheets, PPTX, HTML, XML file formats."
 
 ############################# Header ############################
 title: "Documents Editor SDK for Java Applications"
-description: "Document editor REST API to build advanced documents editing and manipulating tools using Java Cloud SDK on web, mobile, desktop or cloud platforms.‎"
+description: "Document editor REST API to build advanced documents editing and manipulating tools using Java Cloud SDK on web, mobile, desktop or cloud platforms."
 button:
     enable: true
 

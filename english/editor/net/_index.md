@@ -11,7 +11,7 @@ platform_tag: "net"
 
 ############################# Head ############################
 head_title: ".NET Document Editor Cloud SDK – Edit Word Excel Presentations HTML"
-head_description: ".NET document editor Cloud SDK REST APIs to render Microsoft Office Word, Excel, PPTX, HTML, XML without MS Office installed.‎"
+head_description: ".NET document editor Cloud SDK REST APIs to render Microsoft Office Word, Excel, PPTX, HTML, XML without MS Office installed."
 
 ############################# Header ############################
 title: "C# .NET Documents Editor SDK"

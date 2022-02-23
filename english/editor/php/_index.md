@@ -11,11 +11,11 @@ platform_tag: "php"
 
 ############################# Head ############################
 head_title: "PHP Document Editor Cloud SDK – Edit Word Excel HTML & Presentations"
-head_description: "PHP Cloud SDK to communicate with GroupDocs REST APIs for editing business documents formats.  Edit Microsoft Word, Excel, PPTX, HTML & XML files.‎"
+head_description: "PHP Cloud SDK to communicate with GroupDocs REST APIs for editing business documents formats.  Edit Microsoft Word, Excel, PPTX, HTML & XML files."
 
 ############################# Header ############################
 title: "Documents Editor REST API & PHP Cloud SDK"
-description: "Cloud REST API to quickly edit all popular document formats in any type of PHP application without installing any external software.‎"
+description: "Cloud REST API to quickly edit all popular document formats in any type of PHP application without installing any external software."
 button:
     enable: true
 

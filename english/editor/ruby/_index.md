@@ -11,7 +11,7 @@ platform_tag: "ruby"
 
 ############################# Head ############################
 head_title: "Ruby Document Editor Cloud SDK – Edit Word Excel HTML XML PPTX"
-head_description: "Document editor Ruby Cloud SDK and REST APIs to build apps with document editing features. Edit Microsoft Word, Excel, HTML, XML and PPTX file formats.‎"
+head_description: "Document editor Ruby Cloud SDK and REST APIs to build apps with document editing features. Edit Microsoft Word, Excel, HTML, XML and PPTX file formats."
 
 ############################# Header ############################
 title: "Documents Editor SDK for Ruby Applications"

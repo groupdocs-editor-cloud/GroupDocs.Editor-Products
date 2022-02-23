@@ -11,7 +11,7 @@ platform_tag: "python"
 
 ############################# Head ############################
 head_title: "Python Document Editor Cloud SDK to edit Word Excel HTML XML"
-head_description: "Document editor Python Cloud SDK and REST API to edit business document formats including Microsoft Word, Excel, HTML, XML and PowerPoint presentations.‎"
+head_description: "Document editor Python Cloud SDK and REST API to edit business document formats including Microsoft Word, Excel, HTML, XML and PowerPoint presentations."
 
 ############################# Header ############################
 title: "Python Document Editor REST API & SDK"

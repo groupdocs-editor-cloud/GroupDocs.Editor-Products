@@ -11,11 +11,11 @@ platform_tag: "curl"
 
 ############################# Head ############################
 head_title: "GroupDocs.Editor Cloud for cURL"
-head_description: "Work with cURL commands to access the REST APIs for editing popular document formats such as Microsoft Office TXT, HTML and XML.‎"
+head_description: "Work with cURL commands to access the REST APIs for editing popular document formats such as Microsoft Office TXT, HTML and XML."
 
 ############################# Header ############################
 title: "Editing Document Formats using cURL"
-description: "Work with cURL commands to access the REST APIs for editing popular document formats such as Microsoft Office TXT, HTML and XML.‎"
+description: "Work with cURL commands to access the REST APIs for editing popular document formats such as Microsoft Office TXT, HTML and XML."
 button:
     enable: true
 
